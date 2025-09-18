@@ -132,24 +132,4 @@ Chỉnh sửa gradients trong các component:
 - **Multiple Locations**: Lưu nhiều địa điểm
 
 ## 📄 License
-
 MIT License - Sử dụng tự do cho mục đích cá nhân và thương mại.
-
-## 🤝 Contributing
-
-1. Fork project
-2. Tạo feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit changes: `git commit -m 'Add AmazingFeature'`
-4. Push branch: `git push origin feature/AmazingFeature`
-5. Tạo Pull Request
-
-## 📞 Support
-
-Nếu gặp vấn đề, hãy:
-1. Kiểm tra [Issues](../../issues) có sẵn
-2. Tạo issue mới với mô tả chi tiết
-3. Attach logs và screenshots nếu có
-
----
-
-**Enjoy coding! 🚀**
